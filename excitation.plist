@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://oq9cheor5.bkt.clouddn.com/excitation.ipa</string>
+					<string>http://sd.189.cn/encourage/html/jtdls/app/excitation.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://oq9cheor5.bkt.clouddn.com/logo512.png</string>
+					<string>http://sd.189.cn/encourage/html/jtdls/app/logo512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://oq9cheor5.bkt.clouddn.com/logo57.png</string>
+					<string>http://sd.189.cn/encourage/html/jtdls/app/logo57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
